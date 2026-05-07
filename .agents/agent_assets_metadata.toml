@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "D9cAHD9-9vYdEYGKe8CWR"
+uri = "file://artifacts/velora/assets/images/icon.png"
+type = "image"
+title = "velora-app-icon"
+
+[[generated]]
+id = "_dt-xHSzurW3QkV2D8v6Y"
+uri = "file://artifacts/velora/assets/images/hero-bg.png"
+type = "image"
+title = "velora-hero-bg"
+
+[[generated]]
+id = "Mcw1BVTk8TNCMOIhq_2Dm"
+uri = "file://artifacts/velora/assets/images/event1.png"
+type = "image"
+title = "velora-event1"
+
+[[generated]]
+id = "_iD4slAWvq2j31TuFAznU"
+uri = "file://artifacts/velora/assets/images/splash-bg.png"
+type = "image"
+title = "velora-splash-bg"
