@@ -1,0 +1,226 @@
+replit ai
+Create an ADVANCED, PREMIUM, MODERN, MOBILE-FIRST exclusive invite-only social community application similar to Lox Club using the following stack:
+
+Tech Stack:
+- Next.js 15 App Router
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Shadcn UI
+- Firebase Authentication
+- Firebase Firestore Database
+- Firebase Storage
+- React Hook Form
+- Zod validation
+- Lucide Icons
+
+Build this as a HIGH-END PRODUCTION-LEVEL application with extraordinary UI/UX, smooth animations, and premium aesthetics.
+
+Application Name:
+"VELORA" – Exclusive Members Community
+
+Design Requirements:
+- Luxury dark theme
+- Glassmorphism effects
+- Animated gradients
+- Smooth transitions
+- Mobile-first responsive design
+- iOS-quality interactions
+- Elegant typography
+- Premium card layouts
+- Floating navigation
+- Animated onboarding screens
+- Rich hover and tap effects
+- Soft shadows and blurred backgrounds
+- Modern Gen Z + luxury social app aesthetic
+
+Core Features (COMPULSORY):
+
+1. AUTHENTICATION SYSTEM
+- Firebase email/password auth
+- Google authentication
+- Persistent login
+- Protected routes
+- Session handling
+- Role-based authentication
+
+2. INVITE / APPLICATION ONBOARDING
+Create a multi-step animated onboarding flow:
+- Welcome screen
+- Application form
+- Profile creation
+- Interests selection
+- Social links input
+- Bio section
+- Profile picture upload
+- Why do you want to join?
+- Animated progress indicators
+- Final submission success animation
+
+3. PROFILE APPROVAL SYSTEM
+Admin dashboard must include:
+- Pending applications
+- Approve/reject users
+- View detailed profiles
+- Add approval notes
+- Real-time status updates
+- Admin analytics
+
+4. EXCLUSIVE MEMBERS DASHBOARD
+Members-only dashboard with:
+- Personalized welcome section
+- Trending community posts
+- Active members section
+- Upcoming events
+- Notifications panel
+- Suggested connections
+- Animated statistics cards
+- Dynamic activity feed
+
+5. COMMUNITY FEED
+Create an advanced social feed:
+- Create posts
+- Upload images
+- Like system
+- Comments
+- Share interactions
+- Infinite scrolling
+- Realtime updates
+- Trending tags
+- Smooth animations
+
+6. DIRECT MESSAGING SYSTEM
+Realtime messaging using Firebase:
+- One-to-one chat
+- Typing indicators
+- Online/offline status
+- Read receipts
+- Image sharing
+- Voice note UI
+- Animated chat bubbles
+- Sidebar conversations list
+
+7. EVENT LISTINGS SYSTEM
+Premium event module:
+- Upcoming events
+- RSVP functionality
+- Event details modal
+- Event banners
+- Countdown timers
+- Featured events carousel
+- Location display
+- Exclusive invite badges
+
+8. MEMBERS DIRECTORY
+- Search members
+- Filter by interests
+- View premium profiles
+- Follow/connect system
+- Animated profile cards
+
+9. PREMIUM UI COMPONENTS
+Include:
+- Animated sidebar
+- Bottom mobile navigation
+- Floating action buttons
+- Glassmorphism modals
+- Loading skeletons
+- Shimmer effects
+- Toast notifications
+- Dynamic gradients
+- Animated page transitions
+
+10. MOBILE APP EXPERIENCE
+Design it EXACTLY like a real premium mobile application:
+- Mobile-first layout
+- Sticky bottom navbar
+- Swipe interactions
+- Gesture-friendly UI
+- Responsive screens
+- Fullscreen modal experiences
+
+11. EXTRAORDINARY FEATURES (IMPORTANT)
+Add advanced features to make the app stand out:
+- AI-powered profile recommendations
+- Smart event suggestions
+- Personalized feed algorithm UI
+- Achievement badges
+- Community reputation score
+- Premium member tiers
+- Story/status feature
+- Animated onboarding walkthrough
+- Real-time notifications
+- Voice/video room UI mockup
+- Exclusive invite codes
+- Activity heatmaps
+
+12. ANIMATIONS
+Use Framer Motion extensively:
+- Page transitions
+- Scroll animations
+- Card hover effects
+- Modal animations
+- Loading animations
+- Staggered entrance effects
+- Floating UI effects
+- Smooth microinteractions
+
+13. FILE STRUCTURE
+Create scalable professional architecture:
+- app/
+- components/
+- lib/
+- hooks/
+- services/
+- context/
+- types/
+- firebase/
+- styles/
+
+14. CODE QUALITY
+Requirements:
+- Clean reusable components
+- Strong TypeScript typing
+- Modular architecture
+- Scalable folder structure
+- Production-ready code
+- Maintainable patterns
+- Responsive everywhere
+
+15. LANDING PAGE
+Create a stunning luxury landing page with:
+- Hero section
+- Animated headline
+- Exclusive vibe
+- Testimonials
+- Features showcase
+- Invite-only CTA
+- Waitlist form
+- Animated gradients
+- Premium visuals
+
+16. ADMIN PANEL
+Advanced admin controls:
+- User management
+- Analytics dashboard
+- Event management
+- Feed moderation
+- Invite code generation
+- Approval queue
+- Member statistics
+
+17. DATABASE STRUCTURE
+Create Firebase Firestore schema for:
+- Users
+- Posts
+- Events
+- Messages
+- Notifications
+- Applications
+- Connections
+- Stories
+
+18. PERFORMANCE
+Optimize:
+- Lazy loading
+- Image optimization
